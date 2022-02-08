@@ -5,7 +5,7 @@ import { iamges, images } from '../../constants'
 import { SubHeading } from '../../components';
 
 const Header = () => (
-  <div className='app__header app__wrapper section__padding'>
+  <div className='app__header app__wrapper section__padding' id='#header'>
     <div  className='app__wrapper_info'>
       <SubHeading title='Chase the new flavour' />
 
